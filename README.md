@@ -1,9 +1,9 @@
 # 🎄 Advent-Of-Code-2019 (JavaScript) 🎄
 
-## Completed
+## :star: Completed
 
 [![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/yellow)](src/day01)
-[![Day](https://badgen.net/badge/02//%E2%98%85%E2%98%85/yellow)](src/day02)
+[![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/yellow)](src/day02)
 [![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/black)](src/day03)
 [![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/black)](src/day04)
 [![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/black)](src/day05)
@@ -27,6 +27,13 @@
 [![Day](https://badgen.net/badge/23/%E2%98%86%E2%98%86/black)](src/day23)
 [![Day](https://badgen.net/badge/24/%E2%98%86%E2%98%86/black)](src/day24)
 [![Day](https://badgen.net/badge/25/%E2%98%86%E2%98%86/black)](src/day25)
+
+### :snowflake: Results
+
+|    [2020](./src/2020)     | Part1(ms) | Part2(ms) | Total(ms) | Days Total(ms) |
+| :-----------------------: | :-------: | :-------: | :-------: | :------------: |
+| [Day 1](./src/2020/day01) |   0.107   |   0.087   |   0.197   |     0.197      |
+| [Day 2](./src/2020/day02) |   0.095   |  40.044   |  40.139   |     40.336     |
 
 ## What is Advent of Code?
 
@@ -77,21 +84,3 @@ If the day folder does not exist, it will be created from template. Also, the in
 [Advent of Code 2016](https://adventofcode.com/2016)
 
 [Advent of Code 2015](https://adventofcode.com/2015)
-
-## Results
-
-```
-day01
-------------------------------
-Time: 0.113ms
-Solution to part 1: 3255932
-Time: 0.087ms
-Solution to part 2: 4881041
-
-day02
-------------------------------
-Time: 0.098ms
-Solution to part 1: 3790645
-Time: 42.857ms
-Solution to part 2: 6577
-```
