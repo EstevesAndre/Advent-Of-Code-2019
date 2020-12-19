@@ -3,7 +3,7 @@
 ## Completed
 
 [![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/yellow)](src/day01)
-[![Day](https://badgen.net/badge/02/%E2%98%86%E2%98%86/black)](src/day02)
+[![Day](https://badgen.net/badge/02//%E2%98%85%E2%98%85/yellow)](src/day02)
 [![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/black)](src/day03)
 [![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/black)](src/day04)
 [![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/black)](src/day05)
@@ -87,4 +87,11 @@ Time: 0.113ms
 Solution to part 1: 3255932
 Time: 0.087ms
 Solution to part 2: 4881041
+
+day02
+------------------------------
+Time: 0.098ms
+Solution to part 1: 3790645
+Time: 42.857ms
+Solution to part 2: 6577
 ```
