@@ -1,4 +1,3 @@
-const { addListener } = require('process')
 const { read, send, test } = require('../utils')
 
 const prepareInput = (rawInput) => rawInput.split('\n').map(Number)
