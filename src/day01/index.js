@@ -1,8 +1,7 @@
 const { addListener } = require('process')
 const { read, send, test } = require('../utils')
 
-const prepareInput = (rawInput) =>
-  rawInput.split('\n').map((mass) => Number(mass))
+const prepareInput = (rawInput) => rawInput.split('\n').map(Number)
 
 const goA = (rawInput) => {
   const input = prepareInput(rawInput)
