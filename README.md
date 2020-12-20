@@ -1,10 +1,10 @@
-# 🎄 Advent-Of-Code-2019 (JavaScript) 🎄
+# 🎄 Advent Of Code 2019 (JavaScript) 🎄
 
 ## :star: Completed
 
 [![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/yellow)](src/day01)
 [![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/yellow)](src/day02)
-[![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/black)](src/day03)
+[![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/yellow)](src/day03)
 [![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/black)](src/day04)
 [![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/black)](src/day05)
 [![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/black)](src/day06)
@@ -30,10 +30,11 @@
 
 ### :snowflake: Results
 
-|    [2020](./src)     | Part1(ms) | Part2(ms) | Total(ms) | Days Total(ms) |
-| :-----------------------: | :-------: | :-------: | :-------: | :------------: |
+|      Day\Times       | Part1(ms) | Part2(ms) | Total(ms) | Days Total(ms) |
+| :------------------: | :-------: | :-------: | :-------: | :------------: |
 | [Day 1](./src/day01) |   0.107   |   0.087   |   0.197   |     0.197      |
 | [Day 2](./src/day02) |   0.095   |  40.044   |  40.139   |     40.336     |
+| [Day 3](./src/day03) |  380.522  |  385.602  |  766.124  |     806.46     |
 
 ## What is Advent of Code?
 
